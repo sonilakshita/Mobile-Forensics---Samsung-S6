@@ -380,7 +380,7 @@ This repository is intended for:
 * Forensic tool practice
 * Reproducible artifact analysis
 
-The investigation documents findings recovered from the provided NIST case image. Interpretations are limited to the artifacts examined and should not be treated as conclusions about real-world individuals outside the context of the NIST test scenario.
+The investigation documents findings recovered from the provided NIST case image. Interpretations are limited to the artifacts examined and should not be treated as conclusions about real-world individuals outside the context of the NIST test scenario. I have investigated this case solely for my practice purpose.
 
 ---
 
